@@ -13,7 +13,7 @@ python manage.py runserver
 ## Description
 A django weather web application project:
 * Search functionality for any location. Provides temprature, pressure, humidity, forcast, description, coordinate for locations.
-* Api integration. Then process JSON with python dictionary to deliver to frontend.
+* Api integration. Then processed JSON with python dictionary to deliver to frontend.
 * csrf token for form submission. Cross-site request forgery protection.
 * Use of bootstrap to be faithul to responsiveness
 
