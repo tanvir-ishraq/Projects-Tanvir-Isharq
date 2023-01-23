@@ -1,10 +1,10 @@
-## NowWeather - A django weather web application project:
-###### instructions: 
+# NowWeather - A django weather web application project:
+## instructions: 
 python manage.py makemigrations
 
 python manage.py runserver
 
-###### Description
+## Description
 A django weather web application project:
 * search functionality for any location. View .. attribures
 * Api integration. Then process JSON with python dictionary to deliver to frontend.
@@ -13,7 +13,7 @@ A django weather web application project:
 
 tags: POST method, url patterns
 
-###### Created with:
+## Created with:
 django-admin startproject weatherproject
 python manage.py startapp main
 
