@@ -1,5 +1,7 @@
 # NowWeather - A django weather web application project:
 ## instructions: 
+run:
+
 python manage.py makemigrations
 
 python manage.py runserver
