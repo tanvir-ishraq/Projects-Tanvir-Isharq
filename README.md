@@ -18,6 +18,6 @@ django-admin startproject weatherproject
 
 python manage.py startapp main
   
-note: will require internet connection for frontend UI. uses CDN for frontend UI
+note: will require internet connection for frontend UI. uses CDN for frontend UI      
   
 *sign-in functionality to be added*
