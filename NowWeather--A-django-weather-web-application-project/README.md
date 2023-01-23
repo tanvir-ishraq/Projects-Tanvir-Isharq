@@ -1,5 +1,7 @@
 # NowWeather - A django weather web application project
-Web app to view detailed weather attributes of any location. Connecting third party API and clean responsive bootstrap rich UI
+Web app to view detailed weather attributes of any location. Connecting third party API and clean responsive bootstrap rich UI. 
+
+Temprature, pressure, humidity, forcast, description, coordinate
 
 ## instructions: 
 run:
