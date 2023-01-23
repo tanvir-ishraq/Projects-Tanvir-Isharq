@@ -1,4 +1,4 @@
-## NowWeatherapp - A django weather web application project:
+## NowWeather - A django weather web application project:
 ###### instructions: 
 python manage.py makemigrations
 
