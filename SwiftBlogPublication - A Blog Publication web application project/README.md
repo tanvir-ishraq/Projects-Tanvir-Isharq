@@ -7,12 +7,13 @@ python manage.py makemigrations
 python manage.py runserver
 
 ## Description
-using model:
+###### using model:
 * Deleting author deletes all correspoding blog posts. Cascade.
 * Updates time if author edits a blog post.
 * Ordering blog posts according to time published.
 * Admin dashboard to manage blog posts with serach fuctionality and filter fuctionality.
-* using Template inheritance with base design to reduce code redundancy.
+
+* Using Template inheritance with base design to reduce code redundancy.
 * Use bootstrap to be faithul to responsiveness.
 
 ## Created with:
