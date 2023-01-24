@@ -11,7 +11,7 @@ python manage.py runserver
 * Deleting author deletes all correspoding blog posts. Cascade.
 * Updates time if author edits a blog post.
 * Ordering blog posts according to time published.
-* Admin dashboard to manage blog posts with serach fuctionality and filter fuctionality.
+* Coded new serach fuctionality and filter fuctionality on admin dashboard to enhance management of blog posts.
 
 
 * Using Template inheritance with base design to reduce code redundancy.
