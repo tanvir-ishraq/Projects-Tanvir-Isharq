@@ -1,4 +1,4 @@
-# SwiftBlogPublication - A Blog Publication web application project:
+# SwiftBlogPublication - A Blog Publication web application project
 ## instructions: 
 run:
 
