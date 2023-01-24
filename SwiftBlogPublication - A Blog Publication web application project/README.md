@@ -13,6 +13,7 @@ python manage.py runserver
 * Ordering blog posts according to time published.
 * Admin dashboard to manage blog posts with serach fuctionality and filter fuctionality.
 
+
 * Using Template inheritance with base design to reduce code redundancy.
 * Use bootstrap to be faithul to responsiveness.
 
