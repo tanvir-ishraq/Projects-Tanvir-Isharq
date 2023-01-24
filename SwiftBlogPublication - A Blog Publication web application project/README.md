@@ -22,4 +22,5 @@ django-admin startproject project
 
 python manage.py startapp app
   
+  
 note: will require internet connection for frontend UI. uses CDN for frontend UI   
